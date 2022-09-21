@@ -7,7 +7,6 @@
 # which is a key ingredient to generate Up-Down slow oscillations typical of deep sleep and anesthesia.
 # What follows is the python code, and associated explanations, to generate dynamics for several adaptation and excitation levels.
 # 
-# 
 
 import nest
 import time
