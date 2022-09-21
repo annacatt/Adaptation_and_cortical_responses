@@ -54,6 +54,5 @@ for Cext = 3200:3.75:3350                           % set the excitation level i
         save(['rates.mat'],'rates','time_trial','Nstim','CycleTime','RelaxTime','StimTime')
 
         cd ..\..
-
     end
 end
