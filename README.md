@@ -16,7 +16,7 @@ The files in analysis/ aims at analyzing the spiking neuron network time series,
 - use "main_1Module.m" to plot/analyze the firing rate time series of the single-module network;
 - use "main_2Modules.m" to plot/analyze the firing rate time series of the two-module network.
 
-Help is available by contacting the creators, Anna Cattani (acattani@bu.edu), Andrea Galluzzi, Matteo Fecchio, and Andrea Pigorini.
+Help is available by contacting the creators, Anna Cattani (acattani@bu.edu), Andrea Galluzzi (andrea.galluzzi@iss.it).
 
 This project is licensed under the terms of the MIT license.
 Please, cite the following article if using any of the material made here available:
