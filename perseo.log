@@ -1,0 +1,13 @@
+# Neuronal Seed: 878918202
+# Synaptic Seed: 878918202
+#----------
+# File name: 'rates.dat'
+# 1.   Time [ms]
+# n>1. Population n-1 emission rates [Hz]
+
+#----------
+# Out file name: 'spikes.dat'
+# Neurons between [0,500].
+# 1. Emitting Neuron
+# 2. Emission Time [ms].
+
